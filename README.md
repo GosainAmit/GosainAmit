@@ -1,7 +1,7 @@
 ![logo](https://github.com/GosainAmit/GosainAmit/blob/main/AmitGosain_Banner.png)
 <h1 align="center">Hi 👋, I'm Amit Gosain</h1>
 <h3 align="center">As an IT enthusiast with over a decade of experience, I have a solid foundation in system support, network support, and basic programming skills. My expertise includes troubleshooting and maintaining IT infrastructures, ensuring network stability, and providing technical support for hardware and software issues. With a hands-on approach to network configuration and system optimization, I also apply my basic programming skills to automate processes, streamline workflows, and enhance operational efficiency across various IT environments.</h3>
-<img align ="right" alt="coding" width = "400" scr="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMweGpkcXFocTM3YWc2ejdpcGRpcTJuOTl3azQ0ODg0c29haXQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBlTiH8Gzw0Digvx90/giphy.webp">
+<img src="/Nicola tesla.gif" align ="right" alt="coding" width = "400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gosainamit&label=Profile%20views&color=0e75b6&style=flat" alt="gosainamit" /> </p>
 
