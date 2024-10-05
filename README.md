@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Gosain</h1>
 <h3 align="center">As an IT enthusiast with over a decade of experience, I have a solid foundation in system support, network support, and basic programming skills. My expertise includes troubleshooting and maintaining IT infrastructures, ensuring network stability, and providing technical support for hardware and software issues. With a hands-on approach to network configuration and system optimization, I also apply my basic programming skills to automate processes, streamline workflows, and enhance operational efficiency across various IT environments.</h3>
 
-<img src="/nicolastesla.gif" align ="right" alt="coding" width = "400" height ="600"> 
+<img src="/nicolastesla.gif" align ="right" alt="coding" width = "400" height ="400"> 
 
 
 
